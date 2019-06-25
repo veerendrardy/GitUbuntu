@@ -7,4 +7,3 @@ file2 line5 from git local
 file2 line6 from git local
 =======
 file2 line6 from github
->>>>>>> 47b304d4a53cc05b336e7c7b4ea1f7a99322eb09
