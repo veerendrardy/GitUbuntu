@@ -3,4 +3,8 @@ file2 line2 from github
 file2 line3 from git local
 file2 line4 from github
 file2 line5 from git local
+<<<<<<< HEAD
 file2 line6 from git local
+=======
+file2 line6 from github
+>>>>>>> 47b304d4a53cc05b336e7c7b4ea1f7a99322eb09
