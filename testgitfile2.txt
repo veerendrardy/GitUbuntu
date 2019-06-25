@@ -1,3 +1,4 @@
 file2 line1 from git local
 file2 line2 from github
 file2 line3 from git local
+file2 line4 from github
