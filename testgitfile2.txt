@@ -8,3 +8,4 @@ file2 line6 from git local
 =======
 file2 line6 from github
 file2 line7 from git local and server
+file2 line8 from git local
