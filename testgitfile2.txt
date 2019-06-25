@@ -1,1 +1,2 @@
 file2 line1 from git local
+file2 line2 from github
